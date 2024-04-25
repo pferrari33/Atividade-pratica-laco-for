@@ -1,4 +1,5 @@
 package lacosrepeticao;
+
 import java.util.Scanner;
 
 public class ExercicioFor {
